@@ -1,0 +1,3 @@
+Void main
+int
+getch()
